@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-22T14:06:31.252Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="VPRlyIDPiv6gGPKYtoWe" version="14.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-22T14:07:14.828Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="J7Nxl79Mks3akfZ1rKjg" version="14.4.5" type="github">
   <diagram id="cCJnxMXBAtRdat_ASji1" name="Page-1">
     <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -27,6 +27,12 @@
         </mxCell>
         <mxCell id="f7P9pab2XVLLpQTwuehZ-8" value="&lt;span&gt;计算主进程&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="543.5" y="239" width="84" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f7P9pab2XVLLpQTwuehZ-9" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="f7P9pab2XVLLpQTwuehZ-1" target="f7P9pab2XVLLpQTwuehZ-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="230" as="sourcePoint" />
+            <mxPoint x="130" y="180" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
